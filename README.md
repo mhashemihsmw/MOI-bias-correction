@@ -1,4 +1,4 @@
-This repository contains R functions to derive etimates and generate simulated data according to the methods and models described in the paper "Bias-corrected maximum-likelihood estimation of multiplicity of infection and lineage frequencies". To import/merge molecular data of any type (STR, SNPs, amino acids) and format and apply further analysis please refer to the the R package "MLMOI" (https://cran.r-project.org/web/packages/MLMOI/index.html).
+This repository contains R functions to derive etimates and generate simulated data according to the methods and models described in the paper "Bias-corrected maximum-likelihood estimation of multiplicity of infection and lineage frequencies" (https://doi.org/10.1371/journal.pone.0261889). To import/merge molecular data of any type (STR, SNPs, amino acids) and format and apply further analysis please refer to the the R package "MLMOI" (https://cran.r-project.org/web/packages/MLMOI/index.html).
 
 Description of the functions included in the repository:
 
